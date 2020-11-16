@@ -1818,6 +1818,13 @@ input, select, textarea {
 
 /* Button */
 
+	.netlify {
+		fill: rgb(255, 255, 255, 0.15);
+	}
+	.netlify:hover {
+		fill: url(#IconifyId-1729404aa09-77a42-8);
+	}
+
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
