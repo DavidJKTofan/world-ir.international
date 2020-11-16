@@ -1,5 +1,3 @@
-# Work in progress...
-
 # [world-ir.international](http://world-ir.international/)
 World of International Relations (W.I.R.) nonprofit website.
 
