@@ -1,0 +1,8 @@
+/*
+  Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self' https:; font-src 'self' https://fonts.googleapis.com; script-src 'self' 'report-sample'; style-src 'self'; object-src 'none'; form-action 'none'; frame-src 'none'; frame-ancestors 'none';
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: fullscreen=(self "https://world-ir.international/")
