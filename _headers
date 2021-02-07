@@ -1,6 +1,5 @@
 /*
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  Access-Control-Allow-Origin: *
   Content-Security-Policy: default-src 'self' https:; font-src 'self' https://fonts.googleapis.com; script-src 'self' 'report-sample' 'sha256-PYtocK3DFaOHMHXcTLPhO1P5IEXMf8cf6Yyf1u0USFQ=' https://d33wubrfki0l68.cloudfront.net/bundles/54d549e7aee35d366171630cd7c8fa9bba9fd2bf.js; style-src 'self' 'unsafe-hashes' 'sha256-QlrbM8aOqzBK0DIi4eTKHWBQeoYW8/V+N7qXwMcKmqo=' https://d33wubrfki0l68.cloudfront.net/css/f43422050e96027fd3efdad8d5365a0c439023de/assets/css/main.css; object-src 'none'; form-action 'none'; frame-src 'none'; frame-ancestors 'none'; base-uri 'none';
   Upgrade-Insecure-Requests: 1
   X-Frame-Options: SAMEORIGIN
