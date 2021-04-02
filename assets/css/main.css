@@ -39,6 +39,11 @@ body {
   -webkit-text-size-adjust: none
 }
 
+.obfuscated_email {
+  unicode-bidi:bidi-override;
+  direction: rtl;
+}
+
 mark {
   background-color: transparent;
   color: inherit
