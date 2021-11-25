@@ -8,6 +8,7 @@ W.I.R. is a spanish nonprofit and politically independent association of young c
 Entity: ASOCIACIÓN WORLD OF INTERNATIONAL RELATIONS – WIR
 
 Inscrita en el Registro Nacional de Asociaciones: Grupo: 1º / Sección: 1ª / Número Nacional: 608798
+
 _Madrid, 10 de diciembre de 2015_
 
 # License & Credits
